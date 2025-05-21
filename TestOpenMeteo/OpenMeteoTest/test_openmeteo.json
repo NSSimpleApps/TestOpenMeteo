@@ -1,0 +1,69 @@
+{
+  "latitude": 52.52,
+  "longitude": 13.419998,
+  "generationtime_ms": 0.07772445678710938,
+  "utc_offset_seconds": 7200,
+  "timezone": "Europe/Berlin",
+  "timezone_abbreviation": "GMT+2",
+  "elevation": 38,
+  "daily_units": {
+    "time": "iso8601",
+    "relative_humidity_2m_mean": "%",
+    "weather_code": "wmo code",
+    "wind_speed_10m_max": "m/s",
+    "temperature_2m_mean": "°C",
+    "sunrise": "iso8601",
+    "sunset": "iso8601"
+  },
+  "daily": {
+    "time": [
+      "2025-05-21",
+      "2025-05-22",
+      "2025-05-23",
+      "2025-05-24",
+      "2025-05-25"
+    ],
+    "relative_humidity_2m_mean": [
+      49,
+      46,
+      51,
+      51,
+      77
+    ],
+    "weather_code": [
+      3,
+      80,
+      3,
+      3,
+      61
+    ],
+    "wind_speed_10m_max": [
+      5.7,
+      6.62,
+      5.14,
+      3.31,
+      3.72
+    ],
+    "temperature_2m_mean": [
+      17.4,
+      12.2,
+      11.1,
+      12.6,
+      13.5
+    ],
+    "sunrise": [
+      "2025-05-21T05:00",
+      "2025-05-22T04:59",
+      "2025-05-23T04:58",
+      "2025-05-24T04:57",
+      "2025-05-25T04:55"
+    ],
+    "sunset": [
+      "2025-05-21T21:05",
+      "2025-05-22T21:06",
+      "2025-05-23T21:07",
+      "2025-05-24T21:09",
+      "2025-05-25T21:10"
+    ]
+  }
+}
